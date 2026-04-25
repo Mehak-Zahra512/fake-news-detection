@@ -13,7 +13,7 @@ using TF-IDF vectorisation and Multinomial Naïve Bayes on an 80/20 split.
 ## Result
 **80–85% accuracy** on unseen test data
 
-![Model Output](Fake News Detection ss.png)
+![Model Output](Fake-News-Detection.ss.pngg)
 
 ## Tech Stack
 Python · Scikit-learn · Pandas · TF-IDF · Multinomial Naïve Bayes
